@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[THE BEAUTIFUL CRIME]]></title>
+        <description><![CDATA[THE BEAUTIFUL CRIME]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Feb 2016 16:47:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9948a22d-c07e-42de-a64f-c5499d0a3ac8.jpg" alt="" title="">]]></description>
+            <link>undefinedc248e5f9-a2d8-43a6-b4f9-55ac382994cd/index.html</link>
+            <guid isPermaLink="false">c248e5f9-a2d8-43a6-b4f9-55ac382994cd</guid>
+            <pubDate>Tue, 16 Feb 2016 16:47:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
