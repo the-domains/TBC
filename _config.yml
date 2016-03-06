@@ -1,7 +1,7 @@
 name: THE BEAUTIFUL CRIME
 favicon: null
-layout_spectrum: 0.70593
-typography_spectrum: 0.5490434283856302
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6532011309172958
-  lightness: 0.04456905787810683
-  saturation: 0.34778821375221014
-  rhythmicContrast: 0.9656726787798107
+    - '#3e0f31'
+    - '#31426e'
+    - '#eb7d3b'
+    - '#9b5c59'
+    - '#68a7b9'
+  brandStrength: 0.5625
+  lightness: 0.125
+  saturation: 0.4375
+  rhythmicContrast: 1
 purpose: []
