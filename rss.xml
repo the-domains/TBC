@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[THE BEAUTIFUL CRIME]]></title>
         <description><![CDATA[THE BEAUTIFUL CRIME]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tbc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 17:51:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 17:58:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tbc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26359563-9f9c-49f8-8a89-0233cdc40f8c.jpg">]]></description>
+            <link>https://thegrid.ai/tbc/ae78da51-0a82-4e0e-ae32-0b90a52a45f8/index.html</link>
+            <guid isPermaLink="false">ae78da51-0a82-4e0e-ae32-0b90a52a45f8</guid>
+            <pubDate>Sun, 06 Mar 2016 17:56:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/683ed187-3aa1-4e6a-a1d4-77def71675da.jpg">]]></description>
-            <link>undefined824e3c40-1c22-4e4f-83ef-d2f3d182debe/index.html</link>
+            <link>https://thegrid.ai/tbc/824e3c40-1c22-4e4f-83ef-d2f3d182debe/index.html</link>
             <guid isPermaLink="false">824e3c40-1c22-4e4f-83ef-d2f3d182debe</guid>
             <pubDate>Sun, 06 Mar 2016 17:51:10 GMT</pubDate>
         </item>
